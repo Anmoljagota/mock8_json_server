@@ -1,4 +1,149 @@
 {
   "Admin_Added__Movies": [],
-  "users": []
+  "movies": [
+    {
+      "images": "https://image.tmdb.org/t/p/original/wDrQOaIYrTHAteGlFATfZtU3m3o.jpg",
+      "movie": "3 idiots",
+      "ratings": 7,
+      "category": "comedy"
+    },
+    {
+      "images": "https://i.pinimg.com/originals/88/f8/d8/88f8d870c693da6895250b7efdeb756f.jpg",
+      "movie": "Asqui 2",
+      "ratings": 8,
+      "category": "emotional"
+    },
+    {
+      "images": "https://6a25bbd04bd33b8a843e-9626a8b6c7858057941524bfdad5f5b0.ssl.cf5.rackcdn.com/movies/main/b31e0f7eaf3e1cc00823cdc43d046159.jpg",
+      "movie": "Dhoom",
+      "ratings": 6,
+      "category": "action"
+    },
+    {
+      "images": "https://th.bing.com/th/id/OIP._RzcrRB_YbFXCcFjXzG8jgHaFj?pid=ImgDet&rs=1",
+      "movie": "Dhamal",
+      "ratings": 7,
+      "category": "comedy"
+    },
+    {
+      "images": "https://images-na.ssl-images-amazon.com/images/I/91NLSf34w4L._RI_.jpg",
+      "movie": "Mirzapur",
+      "ratings": 9,
+      "category": "action"
+    },
+    {
+      "images": "https://th.bing.com/th/id/OIP.RBh8rNWOgoOHEgZOD5wUUQHaEK?pid=ImgDet&rs=1",
+      "movie": "Mumbai diaries",
+      "ratings": 9,
+      "category": "action"
+    },
+    {
+      "images": "https://image.tmdb.org/t/p/original/wDrQOaIYrTHAteGlFATfZtU3m3o.jpg",
+      "movie": "3 idiots",
+      "ratings": 7,
+      "category": "comedy"
+    },
+    {
+      "images": "https://i.pinimg.com/originals/88/f8/d8/88f8d870c693da6895250b7efdeb756f.jpg",
+      "movie": "Asqui 2",
+      "ratings": 8,
+      "category": "emotional"
+    },
+    {
+      "images": "https://6a25bbd04bd33b8a843e-9626a8b6c7858057941524bfdad5f5b0.ssl.cf5.rackcdn.com/movies/main/b31e0f7eaf3e1cc00823cdc43d046159.jpg",
+      "movie": "Dhoom",
+      "ratings": 6,
+      "category": "action"
+    },
+    {
+      "images": "https://th.bing.com/th/id/OIP._RzcrRB_YbFXCcFjXzG8jgHaFj?pid=ImgDet&rs=1",
+      "movie": "Dhamal",
+      "ratings": 7,
+      "category": "comedy"
+    },
+    {
+      "images": "https://images-na.ssl-images-amazon.com/images/I/91NLSf34w4L._RI_.jpg",
+      "movie": "Mirzapur",
+      "ratings": 9,
+      "category": "action"
+    },
+    {
+      "images": "https://th.bing.com/th/id/OIP.RBh8rNWOgoOHEgZOD5wUUQHaEK?pid=ImgDet&rs=1",
+      "movie": "Mumbai diaries",
+      "ratings": 9,
+      "category": "action"
+    },
+    {
+      "images": "https://image.tmdb.org/t/p/original/wDrQOaIYrTHAteGlFATfZtU3m3o.jpg",
+      "movie": "3 idiots",
+      "ratings": 7,
+      "category": "comedy"
+    },
+    {
+      "images": "https://i.pinimg.com/originals/88/f8/d8/88f8d870c693da6895250b7efdeb756f.jpg",
+      "movie": "Asqui 2",
+      "ratings": 8,
+      "category": "emotional"
+    },
+    {
+      "images": "https://6a25bbd04bd33b8a843e-9626a8b6c7858057941524bfdad5f5b0.ssl.cf5.rackcdn.com/movies/main/b31e0f7eaf3e1cc00823cdc43d046159.jpg",
+      "movie": "Dhoom",
+      "ratings": 6,
+      "category": "action"
+    },
+    {
+      "images": "https://th.bing.com/th/id/OIP._RzcrRB_YbFXCcFjXzG8jgHaFj?pid=ImgDet&rs=1",
+      "movie": "Dhamal",
+      "ratings": 7,
+      "category": "comedy"
+    },
+    {
+      "images": "https://images-na.ssl-images-amazon.com/images/I/91NLSf34w4L._RI_.jpg",
+      "movie": "Mirzapur",
+      "ratings": 9,
+      "category": "action"
+    },
+    {
+      "images": "https://th.bing.com/th/id/OIP.RBh8rNWOgoOHEgZOD5wUUQHaEK?pid=ImgDet&rs=1",
+      "movie": "Mumbai diaries",
+      "ratings": 9,
+      "category": "action"
+    },
+    {
+      "images": "https://image.tmdb.org/t/p/original/wDrQOaIYrTHAteGlFATfZtU3m3o.jpg",
+      "movie": "3 idiots",
+      "ratings": 7,
+      "category": "comedy"
+    },
+    {
+      "images": "https://i.pinimg.com/originals/88/f8/d8/88f8d870c693da6895250b7efdeb756f.jpg",
+      "movie": "Asqui 2",
+      "ratings": 8,
+      "category": "emotional"
+    },
+    {
+      "images": "https://6a25bbd04bd33b8a843e-9626a8b6c7858057941524bfdad5f5b0.ssl.cf5.rackcdn.com/movies/main/b31e0f7eaf3e1cc00823cdc43d046159.jpg",
+      "movie": "Dhoom",
+      "ratings": 6,
+      "category": "action"
+    },
+    {
+      "images": "https://th.bing.com/th/id/OIP._RzcrRB_YbFXCcFjXzG8jgHaFj?pid=ImgDet&rs=1",
+      "movie": "Dhamal",
+      "ratings": 7,
+      "category": "comedy"
+    },
+    {
+      "images": "https://images-na.ssl-images-amazon.com/images/I/91NLSf34w4L._RI_.jpg",
+      "movie": "Mirzapur",
+      "ratings": 9,
+      "category": "action"
+    },
+    {
+      "images": "https://th.bing.com/th/id/OIP.RBh8rNWOgoOHEgZOD5wUUQHaEK?pid=ImgDet&rs=1",
+      "movie": "Mumbai diaries",
+      "ratings": 9,
+      "category": "action"
+    }
+  ]
 }
